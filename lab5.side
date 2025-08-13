@@ -1,0 +1,131 @@
+{
+  "id": "bb638cbd-5812-4b30-bf81-ef5bcff328a8",
+  "version": "2.0",
+  "name": "lab5",
+  "url": "https://web.cecs.pdx.edu",
+  "tests": [{
+    "id": "eb937fef-2cad-40df-99ee-6bef6ca0296f",
+    "name": "s",
+    "commands": [{
+      "id": "eae75a8b-3223-4b70-96b8-88da642ac1b1",
+      "comment": "",
+      "command": "open",
+      "target": "/~cgi_web/F/order.html",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a6549dad-e7ee-463f-a26b-5275e14ce024",
+      "comment": "NAMESELECTION",
+      "command": "type",
+      "target": "id=customer",
+      "targets": [
+        ["id=customer", "id"],
+        ["name=customer", "name"],
+        ["css=#customer", "css:finder"],
+        ["xpath=//input[@id='customer']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "molly"
+    }, {
+      "id": "dbd6a071-b438-4d5e-95ab-48568a5afd61",
+      "comment": "NAME",
+      "command": "verifyValue",
+      "target": "id=customer",
+      "targets": [
+        ["id=customer", "id"],
+        ["name=customer", "name"],
+        ["css=#customer", "css:finder"],
+        ["xpath=//input[@id='customer']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "molly"
+    }, {
+      "id": "300bd227-19cb-4263-ada8-6c3a44a44e63",
+      "comment": "SANDWICHESSELXCtion",
+      "command": "type",
+      "target": "id=sandwich",
+      "targets": [
+        ["id=sandwich", "id"],
+        ["name=sandwich", "name"],
+        ["css=#sandwich", "css:finder"],
+        ["xpath=//input[@id='sandwich']", "xpath:attributes"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": "BLT"
+    }, {
+      "id": "33b34516-4e55-4ec9-8273-659b63d844b2",
+      "comment": "SANDWICHES",
+      "command": "verifyValue",
+      "target": "id=sandwich",
+      "targets": [
+        ["id=sandwich", "id"],
+        ["name=sandwich", "name"],
+        ["css=#sandwich", "css:finder"],
+        ["xpath=//input[@id='sandwich']", "xpath:attributes"],
+        ["xpath=//p[2]/input", "xpath:position"]
+      ],
+      "value": "BLT"
+    }, {
+      "id": "ce765e6a-efd2-4d85-8a96-7fa8b3523909",
+      "comment": "SIDES",
+      "command": "type",
+      "target": "id=sides",
+      "targets": [],
+      "value": "Fries"
+    }, {
+      "id": "8801f7d3-e26b-43c0-9760-5f654ff6d825",
+      "comment": "SIDES",
+      "command": "verifyValue",
+      "target": "id=sides",
+      "targets": [
+        ["id=sides", "id"],
+        ["name=sides", "name"],
+        ["css=#sides", "css:finder"],
+        ["xpath=//input[@id='sides']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": "Fries"
+    }, {
+      "id": "3a9c6dce-37b9-4877-b182-6c6c88a1e758",
+      "comment": "DRINKKSELC",
+      "command": "type",
+      "target": "id=drinks",
+      "targets": [],
+      "value": "coke"
+    }, {
+      "id": "11481229-c00d-439e-a50f-e91ba274a6b7",
+      "comment": "DRINKS",
+      "command": "verifyValue",
+      "target": "id=drinks",
+      "targets": [
+        ["id=drinks", "id"],
+        ["name=drinks", "name"],
+        ["css=#drinks", "css:finder"],
+        ["xpath=//input[@id='drinks']", "xpath:attributes"],
+        ["xpath=//input[3]", "xpath:position"]
+      ],
+      "value": "coke"
+    }, {
+      "id": "65742c59-ebac-4bc1-a24a-b92d5c3b0fbf",
+      "comment": "Order",
+      "command": "click",
+      "target": "css=p:nth-child(18) > input",
+      "targets": [
+        ["css=p:nth-child(18) > input", "css:finder"],
+        ["xpath=//input[@value='Order']", "xpath:attributes"],
+        ["xpath=//p[5]/input", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "5591e20f-97c1-4955-b700-7ba14d8548a9",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["eb937fef-2cad-40df-99ee-6bef6ca0296f"]
+  }],
+  "urls": ["https://web.cecs.pdx.edu/"],
+  "plugins": []
+}
