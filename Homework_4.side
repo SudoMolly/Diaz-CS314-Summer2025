@@ -1,0 +1,3613 @@
+{
+  "id": "3f778394-5116-46b5-8674-226b9db08333",
+  "version": "2.0",
+  "name": "Homework 4",
+  "url": "https://web.cecs.pdx.edu/~cgi_web/F/game.html",
+  "tests": [
+    {
+      "id": "89e33391-bd90-4597-93a1-a18906dcd0b3",
+      "name": "TC2 - fall off to start",
+      "commands": [
+        {
+          "id": "178ad6e5-e1c5-444d-9717-2634f6658de2",
+          "comment": "",
+          "command": "open",
+          "target": "/~cgi_web/F/game.html",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "2ae1d0fc-b293-40b4-b6ae-5df3a6fcc4fe",
+          "comment": "",
+          "command": "setWindowSize",
+          "target": "1296x992",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "591d76a4-a886-4b9e-a456-4afc40bcc9ce",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "eaca2c20-6456-4627-bccb-ee16ee53ebac",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "52b84d35-1f8e-4981-b1c8-176e40f6ee11",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "88477b19-91f1-4a8d-91ae-af96c9750294",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "02efae9a-7aaa-4ee7-8491-89c15d7501bf",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "98028ed1-bec5-422a-b59b-71a8b23007c6",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "26323683-6f82-4435-8c25-c6cd604956d9",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "05d88f9c-e41e-4a14-b084-bd47d7a89cf4",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "042e312d-d469-46cc-8b47-083803fed7f7",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "b1b04634-55a7-40f9-92a6-6881f4112637",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "c9c75a43-7bf0-4648-914b-942c849b5d5a",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "f721c32b-c28b-462c-a0aa-b79cbdb7d126",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "23331c6a-9b31-4e2e-bcb8-8fe65631eb0d",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "07e8db33-5f89-456e-9103-de2ff99c70c7",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "7badaec2-f371-4e50-b766-3b6402f7daeb",
+          "comment": "",
+          "command": "assertAlert",
+          "target": "YIKES! You've walked off the edge of the world",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "c9de443a-156a-472b-a26f-f51577dc54e7",
+          "comment": "",
+          "command": "//click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "9adf1733-ef0d-4813-b142-ca4ae5022f7b",
+          "comment": "assert x is 12",
+          "command": "assertValue",
+          "target": "id=xlocation",
+          "targets": [],
+          "value": "12"
+        },
+        {
+          "id": "6f9e1636-7f3a-4764-9907-45584a661f84",
+          "comment": "assert y is 12",
+          "command": "assertValue",
+          "target": "id=ylocation",
+          "targets": [
+            [
+              "id=ylocation",
+              "id"
+            ],
+            [
+              "css=#ylocation",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='ylocation']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input[2]",
+              "xpath:position"
+            ]
+          ],
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": "dd3ff3ae-638e-4502-a644-3f021508f6b1",
+      "name": "TC1 - Game ends when energy out",
+      "commands": [
+        {
+          "id": "bee126aa-59fb-431b-aa7b-98c75f1954ba",
+          "comment": "",
+          "command": "open",
+          "target": "https://web.cecs.pdx.edu/~cgi_web/F/game.html",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "e1cbedf5-d604-47cb-aad4-8e8d74a2d193",
+          "comment": "",
+          "command": "setWindowSize",
+          "target": "1296x992",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "2a007e9d-66a2-4cdf-84fa-450db3e78b88",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "e563201d-20cb-4341-9cf4-85a2bade7368",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "9b613d26-cee2-4ce6-abd6-9c1e463d047e",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "28d2b18b-48bc-4eda-b17e-1e9f2b071368",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "3f636e5e-1928-4d07-ab37-02420fa11024",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "e097186b-1fc8-488f-a749-a38c41bd5c8c",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "5dc1afe7-85b4-47f7-aa87-5fc15a188029",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "10d7f1dc-ffee-4fe5-a7ba-892b2386b38e",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "12720b59-d5aa-4d25-b7ab-26d2e352cc7a",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "2ba8042d-c35a-4e93-8dd6-fa4c58bdd230",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "67a76f9f-ae87-4b00-bc9e-e80175312ff0",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "fc636e73-07f4-4064-a1f9-d019351f7039",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) > td:nth-child(1)",
+          "targets": [
+            [
+              "css=tr:nth-child(3) > td:nth-child(1)",
+              "css:finder"
+            ],
+            [
+              "xpath=//tr[3]/td",
+              "xpath:position"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "533552a2-355d-474f-b23a-c20982bf9cea",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "8414c09c-bf4e-44cc-b233-55220120b66a",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "65208add-2855-4432-b9ef-02d7e3228606",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "169c57b3-b4dd-4228-ad8a-af676e29901e",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "ce2038a7-e422-4d5f-86b4-815d0063a03f",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "b646955b-43db-4009-ab82-123e4bf40ce9",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "5ec7e83e-d3d7-4a2c-a7ba-e78188cbf1c3",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "c4691664-1253-4b7f-a888-78ec31e56a03",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "0b2e2438-ff88-4dfe-98d9-82b8fa7c31d6",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "72e29a31-4f17-4bbb-9893-ec1fe8d42de7",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "cf2795d0-6645-4582-b8c5-10c3f49486ee",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "b0f9e758-4a36-4383-ba0a-b3ac9d5e0934",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "13044187-52d9-4ca7-a024-81c66e6143ae",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "1b57049f-74c4-42d6-b14f-57ab78fdcf16",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "15b6629b-5f83-4273-a3f4-8f268728354b",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "7ff4f769-ac3f-4fba-b151-2f11ed6ea5fa",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "74760898-e43b-4a7e-9b08-2238701b597a",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "4770e1cf-5b84-4a84-9924-6b103bd49a2f",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "a29007b4-51af-459c-af75-def8628df813",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "a4cbd8ec-2f4d-4ad3-8c69-c43760aec906",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "19ed91af-8ce3-4021-a399-d2f142c4bda2",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "c2125f1d-c749-46f6-9bea-f6926d4dd963",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "26d7ff1d-05b7-4b81-88af-62d7c6990eae",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(2) > td:nth-child(2)",
+          "targets": [
+            [
+              "css=tr:nth-child(2) > td:nth-child(2)",
+              "css:finder"
+            ],
+            [
+              "xpath=//tr[2]/td[2]",
+              "xpath:position"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "c2b7da02-befb-4b28-83de-3126dc8252d0",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "d8c40d5a-4566-4439-b95a-34620bb53acd",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "aa5ef09e-5c88-4bc4-bf6e-591944d79284",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "f189870f-9087-4528-958a-41a6c0a7b96a",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "efa573d7-d722-4e0c-abd8-4aae6c8cfcb1",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "037a4260-7602-404d-a41f-8fbff5f365a3",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "12561bd3-6f99-4133-a815-c5d1ac161c9e",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "626c3390-5339-45ef-bba7-a70b03a9989c",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "12eaf2dd-78ec-48b3-abd9-5bd345ba504c",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "0196f08f-eebd-4dd3-b587-38149ce227a0",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "4906950b-e3fc-4fec-ae22-776c5f5127de",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "f8ef45a3-9da2-443c-b100-467ce6741bc4",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "1ce7fb5b-2bcf-4435-aeaf-3dbafdf4c8f6",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "6e98bf69-0dd4-461e-857c-735188e07685",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "d5ceb3ba-f15e-40b2-bac5-3d1aef7d4fde",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "390054d6-f6ef-47bc-abc9-2b5c6a758606",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "a0dea160-4914-40af-ae7c-3b41a2fa6623",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "6cb9047b-bd65-4ca0-ba05-1f51f1ec3851",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "9d5c8565-97b5-4a07-a3dc-783fee4cbf5d",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "50d722d2-d8ef-4d73-bef3-48382703807a",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "f145a847-d24b-487a-8a18-a6b5177c0abe",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "fb2c5a18-87ae-4b27-bff1-52c4361b7e34",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "b15cf689-83f5-4ac1-addc-816f524e1b19",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "9b5da52c-a4e1-4950-8025-55412ae42ce5",
+          "comment": "",
+          "command": "click",
+          "target": "css=table",
+          "targets": [
+            [
+              "css=table",
+              "css:finder"
+            ],
+            [
+              "xpath=//table",
+              "xpath:position"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "e8fc8e5e-7485-49c7-9c75-2cc391e40eda",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "be99b6bf-8240-46b9-8380-8f99d743c1fb",
+          "comment": "",
+          "command": "click",
+          "target": "css=tbody",
+          "targets": [
+            [
+              "css=tbody",
+              "css:finder"
+            ],
+            [
+              "xpath=//tbody",
+              "xpath:position"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "7a9e2267-51aa-41b8-b865-d3fbc0f88415",
+          "comment": "",
+          "command": "click",
+          "target": "css=body",
+          "targets": [
+            [
+              "css=body",
+              "css:finder"
+            ],
+            [
+              "xpath=//body",
+              "xpath:position"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "e9f9f1ce-791f-4760-a3a5-910e908ce05a",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "b54b07e0-a8ff-4030-a6b8-3408dd989b4c",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "61628ee3-0f2c-4282-9886-6397f891ea63",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "998f00de-e375-48f4-89c7-d2f460ea69cf",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "f38d2728-dfbb-4e90-a3b8-224182818555",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "b0a5745e-c5b6-4ad0-aa99-8656e899c2e0",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "12989a1f-a86b-43ea-9e54-cc49e43f8f2c",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "574381d1-825d-4774-9a2d-c29c428bc016",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "5a4e5034-87a6-4088-9de9-a83ada8f5842",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "c3aade80-e617-445f-921e-bba54c6e3bc6",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) > td:nth-child(2)",
+          "targets": [
+            [
+              "css=tr:nth-child(3) > td:nth-child(2)",
+              "css:finder"
+            ],
+            [
+              "xpath=//tr[3]/td[2]",
+              "xpath:position"
+            ],
+            [
+              "xpath=//td[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "5dc195a6-71ce-41bc-ae94-23c187749d27",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "5ca0fd41-abee-4ba2-b8c8-c9d48ef6c150",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "d0053965-aec7-43b9-aee1-bb73bf5ff31e",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "a0061188-f044-4a70-8e41-d73b0f16e45c",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "ec7802ba-8798-4609-8f1c-5f27362418cb",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "b2533d45-324b-46f1-b0c0-1151afda26a9",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "2c4a1ee6-dc5d-4d15-b3c7-e0a81fd39699",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "ba78e85e-308d-4d26-8df9-a6a5c8f34207",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "6d639a55-83d5-4d40-a25f-9a5835ee360e",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "655d34da-05dd-401f-af53-7841dedc80f3",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "361d6309-6ca5-44d9-9bdc-c2695aec2119",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "7a44bd23-563b-446e-98cd-9712ad54c958",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "0116c931-f821-4533-ad11-b84bc6c78495",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "c049357b-41eb-4e49-9e0e-fa0f5a5953c4",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "ea86782a-99da-4d6b-93af-7bf1d3998038",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "90de79d3-b074-42ba-b7fa-ad6320ae97f9",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "11e9ee04-43a4-494e-bedd-9868a9206f88",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "c187c886-d4fb-4006-a79f-ba54dcb9fbdc",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "52891d92-ee07-4beb-91a1-0e56643188ef",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "e9caf017-14b1-4e3d-bbe1-a296d50fbeb4",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "0569d5e5-df24-44fe-9157-f4f9025d3cae",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "dfc05a4d-e07d-4be5-8c48-095b0c1aa419",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "08ef28cf-b71e-468e-b49f-56b5a6ac1932",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "f6ce01c3-a7cf-4188-8aaf-bcb589946994",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "c35a4f33-5342-46e9-9c29-cc90215a0c9f",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "9a8b3b6a-c4b5-4bbc-b710-72f6a2dcf083",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "0195dc04-3cbe-4c25-8c7a-4ffcbe1d17e6",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3)",
+          "targets": [
+            [
+              "css=tr:nth-child(3)",
+              "css:finder"
+            ],
+            [
+              "xpath=//tr[3]",
+              "xpath:position"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "55f1da8a-5bd7-4002-965a-a41935fd9717",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "23fea23d-455f-43f9-a931-7524a1578a6f",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "871da043-ae24-4c27-9915-52af6927d01f",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "75954bcf-d532-4b34-ac7c-67589981905d",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "cd35a781-cf46-4258-8f20-2851e6e4a8d5",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "04ef66b7-db0a-4288-beaf-bf30f2a5f7af",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "eb1322df-1b55-4596-bbba-033e72ddb185",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "fb849e67-3ab9-4a06-adfa-c746eb6a65a3",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "6c4e96db-af9b-4b24-a06a-167d4708b865",
+          "comment": "",
+          "command": "assertAlert",
+          "target": "You ran out of energy and died. However, you have been resurrected",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "d029a89f-0bd6-4d86-813c-b4b20d352e56",
+          "comment": "",
+          "command": "verifyValue",
+          "target": "id=xlocation",
+          "targets": [
+            [
+              "id=xlocation",
+              "id"
+            ],
+            [
+              "css=#xlocation",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='xlocation']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input",
+              "xpath:position"
+            ]
+          ],
+          "value": "12"
+        },
+        {
+          "id": "4215230d-f646-4761-ab03-4850a2b6ba00",
+          "comment": "",
+          "command": "verifyValue",
+          "target": "id=ylocation",
+          "targets": [
+            [
+              "id=ylocation",
+              "id"
+            ],
+            [
+              "css=#ylocation",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='ylocation']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input[2]",
+              "xpath:position"
+            ]
+          ],
+          "value": "12"
+        },
+        {
+          "id": "fe254c7d-678a-4e5a-9dc0-5cd75ee5d38c",
+          "comment": "",
+          "command": "verifyValue",
+          "target": "id=energy",
+          "targets": [
+            [
+              "id=energy",
+              "id"
+            ],
+            [
+              "css=#energy",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='energy']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input[3]",
+              "xpath:position"
+            ]
+          ],
+          "value": "100"
+        },
+        {
+          "id": "86d9806b-3e04-403d-9cf1-3667c57171e4",
+          "comment": "",
+          "command": "verifyValue",
+          "target": "id=whiffles",
+          "targets": [
+            [
+              "id=whiffles",
+              "id"
+            ],
+            [
+              "css=#whiffles",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='whiffles']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input[4]",
+              "xpath:position"
+            ]
+          ],
+          "value": "100"
+        },
+        {
+          "id": "1a23043e-d9fb-42f4-bfc2-a0cbf69dbe79",
+          "comment": "",
+          "command": "verifyValue",
+          "target": "id=message",
+          "targets": [
+            [
+              "id=message",
+              "id"
+            ],
+            [
+              "css=#message",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='message']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input[5]",
+              "xpath:position"
+            ]
+          ],
+          "value": "Welcome to the island ..."
+        }
+      ]
+    },
+    {
+      "id": "0260a015-4930-47b8-96a3-313383dd1276",
+      "name": "TC3 - Message Updates Correctly",
+      "commands": [
+        {
+          "id": "f275a758-ca88-4ef0-87cb-8be6f5f7b6eb",
+          "comment": "",
+          "command": "open",
+          "target": "",
+          "targets": [],
+          "value": ""
+        },
+        {
+          "id": "0637c763-471a-4f39-9fb9-2ec87217365f",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(1) button",
+          "targets": [
+            [
+              "css=tr:nth-child(1) button",
+              "css:finder"
+            ],
+            [
+              "xpath=//button[@type='button']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'NORTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "fb872901-9e34-4f6b-b5d8-c009716c9391",
+          "comment": "",
+          "command": "verifyValue",
+          "target": "id=message",
+          "targets": [
+            [
+              "id=message",
+              "id"
+            ],
+            [
+              "css=#message",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='message']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input[5]",
+              "xpath:position"
+            ]
+          ],
+          "value": "Walking... North"
+        },
+        {
+          "id": "f3e3ce10-8192-4844-90e8-23b34bb76f79",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(3) > button",
+          "targets": [
+            [
+              "css=td:nth-child(3) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[3]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[3]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'EAST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "afb788b5-7560-442c-8f7a-b343baa7fcc1",
+          "comment": "",
+          "command": "verifyValue",
+          "target": "id=message",
+          "targets": [
+            [
+              "id=message",
+              "id"
+            ],
+            [
+              "css=#message",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='message']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input[5]",
+              "xpath:position"
+            ]
+          ],
+          "value": "Walking...East"
+        },
+        {
+          "id": "c71e8198-a264-4a85-80b1-bad69a125dbe",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "b1a8d24a-66c5-44c8-8dc1-1428b317f2ed",
+          "comment": "",
+          "command": "verifyValue",
+          "target": "id=message",
+          "targets": [
+            [
+              "id=message",
+              "id"
+            ],
+            [
+              "css=#message",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='message']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input[5]",
+              "xpath:position"
+            ]
+          ],
+          "value": "Walking... South"
+        },
+        {
+          "id": "f07dd0f8-c862-4ac5-897d-271de35b6fc5",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(1) > button",
+          "targets": [
+            [
+              "css=td:nth-child(1) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[2]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[2]/td/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'WEST')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "d551fc96-801d-4911-974e-25047e27130d",
+          "comment": "",
+          "command": "verifyValue",
+          "target": "id=message",
+          "targets": [
+            [
+              "id=message",
+              "id"
+            ],
+            [
+              "css=#message",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='message']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input[5]",
+              "xpath:position"
+            ]
+          ],
+          "value": "Walking... West"
+        },
+        {
+          "id": "555c1230-be4b-41dd-8a94-74a8f117edbf",
+          "comment": "",
+          "command": "click",
+          "target": "css=td:nth-child(7) > button",
+          "targets": [
+            [
+              "css=td:nth-child(7) > button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[4]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//td[7]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'RESET')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "68aad65f-71a3-4ef7-8968-9f85a7e957a5",
+          "comment": "",
+          "command": "type",
+          "target": "id=xlocation",
+          "targets": [
+            [
+              "id=xlocation",
+              "id"
+            ],
+            [
+              "css=#xlocation",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='xlocation']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input",
+              "xpath:position"
+            ]
+          ],
+          "value": "1"
+        },
+        {
+          "id": "2c88e352-4dc4-4a50-aa8b-e7c6d7776d83",
+          "comment": "",
+          "command": "type",
+          "target": "id=ylocation",
+          "targets": [
+            [
+              "id=ylocation",
+              "id"
+            ],
+            [
+              "css=#ylocation",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='ylocation']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input[2]",
+              "xpath:position"
+            ]
+          ],
+          "value": "4"
+        },
+        {
+          "id": "ebcf0958-674b-4a15-bc8f-7ff49c51d5a6",
+          "comment": "",
+          "command": "verifyValue",
+          "target": "id=energy",
+          "targets": [
+            [
+              "id=energy",
+              "id"
+            ],
+            [
+              "css=#energy",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='energy']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input[3]",
+              "xpath:position"
+            ]
+          ],
+          "value": "100"
+        },
+        {
+          "id": "1780756f-6a39-464e-aef3-36633829f718",
+          "comment": "",
+          "command": "click",
+          "target": "css=tr:nth-child(3) button",
+          "targets": [
+            [
+              "css=tr:nth-child(3) button",
+              "css:finder"
+            ],
+            [
+              "xpath=(//button[@type='button'])[5]",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//tr[3]/td[2]/button",
+              "xpath:position"
+            ],
+            [
+              "xpath=//button[contains(.,'SOUTH')]",
+              "xpath:innerText"
+            ]
+          ],
+          "value": ""
+        },
+        {
+          "id": "8500b60a-ffff-446c-8b6b-259eecceebeb",
+          "comment": "",
+          "command": "verifyValue",
+          "target": "id=message",
+          "targets": [
+            [
+              "id=message",
+              "id"
+            ],
+            [
+              "css=#message",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='message']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input[5]",
+              "xpath:position"
+            ]
+          ],
+          "value": "YUCK! You've stepped into a bog and used up an extra energy point"
+        },
+        {
+          "id": "51149d16-7b20-4edd-b4b8-b2c984a117dd",
+          "comment": "",
+          "command": "verifyValue",
+          "target": "id=energy",
+          "targets": [
+            [
+              "id=energy",
+              "id"
+            ],
+            [
+              "css=#energy",
+              "css:finder"
+            ],
+            [
+              "xpath=//input[@id='energy']",
+              "xpath:attributes"
+            ],
+            [
+              "xpath=//input[3]",
+              "xpath:position"
+            ]
+          ],
+          "value": "97"
+        }
+      ]
+    }
+  ],
+  "suites": [
+    {
+      "id": "d8f2121c-7f1b-4d60-8d1e-0dba9070a3fa",
+      "name": "Default Suite",
+      "persistSession": false,
+      "parallel": false,
+      "timeout": 300,
+      "tests": [
+        "89e33391-bd90-4597-93a1-a18906dcd0b3"
+      ]
+    }
+  ],
+  "urls": [
+    "https://web.cecs.pdx.edu/",
+    "https://web.cecs.pdx.edu/~cgi_web/F/game.html"
+  ],
+  "plugins": []
+}
